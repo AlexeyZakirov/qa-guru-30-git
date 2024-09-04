@@ -7,4 +7,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    private static void message(){
+        System.out.println("message");
+    }
 }
