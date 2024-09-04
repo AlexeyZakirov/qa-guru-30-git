@@ -8,4 +8,7 @@ public class Main {
         }
         System.out.println("HOMEWORK");
     }
+    private static void message(){
+        System.out.println("message");
+    }
 }
