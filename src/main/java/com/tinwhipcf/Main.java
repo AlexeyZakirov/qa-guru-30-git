@@ -7,5 +7,10 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("HOMEWORK");
+
+        int a = 10;
+        System.out.println("MESSAGE!!!!");
     }
+
+    
 }
